@@ -1,0 +1,73 @@
+.logo{
+		/* background-color:#ff82ec; */
+	background-color:#ffddf7;
+		}
+.header{
+	margin-left:10%;
+}
+.heading{
+
+	text-align:center;
+	font-family: 'Lato';
+	margin-top:20%;
+	color:#8d929b;
+}
+.mainheading{
+	font-family: 'Lato';
+	color:#8d929b;
+}
+.blog{
+	width:80%;
+	border-radius:10px;
+}
+.blog-header{
+	background-color:#ff82ec;
+	
+	border-radius:10px;
+}
+.blog-heading{
+	color:#8d929b;
+
+}
+.blogp{
+	margin-left:2%;
+	color:#8d929b;
+
+}
+.blogp1{
+	
+}
+.marker{
+	color:#ff82ec;
+}
+.marker-color{
+	color:#8d929b;
+}
+.block{
+	/* background-color:#ff82ec;
+	height:190px;
+	color:white; */
+	font-style:bold;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	vertical-align: middle;
+	
+}
+.bgimg {
+    background-image: url("../images/new4.jpg") ;
+	width: 80%;
+	height:auto;
+	box-shadow: inset 0 0 0 1000px rgba(255, 255, 255,.7);
+	
+}
+.bgimg2 {
+    background-image: url("../images/new3.jpg") ;
+	width: auto;
+	height:auto;
+	color:#8d929b;
+	box-shadow: inset 0 0 0 1000px rgba(255, 255, 255,.7);
+
+	/* box-shadow: inset 0 0 0 1000px rgba(255, 130, 236,.2); */
+	
+}
+
+
